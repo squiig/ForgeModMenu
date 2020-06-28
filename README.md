@@ -1,3 +1,5 @@
+_This branch plans to port the mod to Forge 1.12.2._
+
 # ModMenu
 ~~Hard to be more descriptive than that.~~ It enriches the standard Minecraft menu with an interface displaying a one-dimensional array of modifications
 
